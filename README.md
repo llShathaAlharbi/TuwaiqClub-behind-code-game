@@ -3,15 +3,15 @@
 
 An interactive single-page web game designed for high school students. The game teaches players when **Vibe Coding** (AI-assisted rapid software development) is appropriate to rely on, and when it is critical to thoroughly understand, review, and test the code before deployment.
 
----
-## 🎮 [العب الآن](https://llshathaalharbi.github.io/behind-code-game/)
-
 
 ## 🎯 Project Overview & Core Message
 
 Vibe coding is a powerful approach for rapid prototyping, hackathons, and low-risk, low-complexity projects. However, for mission-critical systems, relying solely on AI-generated code without manual review and rigorous testing is highly risky.
 
 ---
+## 🎮 [العب الآن](https://llshathaalharbi.github.io/behind-code-game/)
+
+
 
 ## 🎮 How to Play
 
