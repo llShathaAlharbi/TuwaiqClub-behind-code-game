@@ -9,9 +9,7 @@ An interactive single-page web game designed for high school students. The game 
 Vibe coding is a powerful approach for rapid prototyping, hackathons, and low-risk, low-complexity projects. However, for mission-critical systems, relying solely on AI-generated code without manual review and rigorous testing is highly risky.
 
 ---
-## 🎮 [العب الآن](https://llshathaalharbi.github.io/behind-code-game/)
-
-
+## 🎮 [العب الآن](https://llshathaalharbi.github.io/behind-code-game/).
 
 ## 🎮 How to Play
 
